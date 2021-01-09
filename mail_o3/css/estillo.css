@@ -1,0 +1,369 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+.row .redese .te {
+    margin-left: 980px!important
+}
+
+.row .redese .re {
+    margin-left: 980px!important
+}
+
+.rede {
+    left: 1000px;
+    margin-top: 10.281px;
+    font-family: titillium web;
+    color: #000
+}
+
+.redese {
+    color: #5d6572;
+    font-size: 30px;
+    letter-spacing: 20px;
+    text-decoration: none
+}
+
+.redese:hover {
+    color: #adadad;
+    font-size: 30px;
+    text-decoration: none
+}
+
+.espacio90 {
+    height: 90%
+}
+
+.esapcio32 {
+    width: 600px
+}
+
+.tip {
+    margin-left: 40%
+}
+
+.text-center {
+    margin-top: 3%;
+    background-color: #fff;
+    width: 100%
+}
+
+.imagen {
+    margin-top: 20px;
+    width: 100%;
+    height: 100%;
+    z-index: 27
+}
+
+.parrafo {
+    font-family: 'libre franklin';
+    text-align: justifyLeft;
+    color: rgb( 0, 0, 0);
+}
+
+.letras {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb( 65, 64, 66);
+}
+
+.menu {}
+
+.precios {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb( 235, 30, 35)
+}
+
+.anuncio {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb( 65, 64, 66);
+    font-weight: bold;
+}
+
+.menu {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb( 65, 64, 66);
+    font-weight: bold;
+    text-align: left;
+    margin-left: 25%;
+}
+
+.espaciofooter {
+    height: 5vh;
+}
+
+.img-fl {
+    width: 150%
+}
+
+.color {
+    padding: 50px;
+    background-color: #eb1e23;
+    height: 159px;
+    font-family: titillium web, sans-serif
+}
+
+.texto {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20.833px;
+    color: rgb( 255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    -moz-transform: matrix( 2.04302482887412, 0, 0, 2.04302482887412, 0, 0);
+    -webkit-transform: matrix( 2.04302482887412, 0, 0, 2.04302482887412, 0, 0);
+    -ms-transform: matrix( 2.04302482887412, 0, 0, 2.04302482887412, 0, 0);
+    position: absolute;
+    left: 40%;
+    text-align: center;
+    z-index: 25
+}
+
+.texto66 {
+    font-family: titillium web;
+    color: rgb( 0, 0, 0);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: left;
+    z-index: 17
+}
+
+.texto67 {
+    font-family: titillium web;
+    color: rgb( 0, 0, 0);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: left;
+    margin-left: 100px;
+    z-index: 17
+}
+
+.espacio-letras {
+    height: 20%
+}
+
+.texto1 {
+    padding: 30px 0% 60px;
+    font-family: libre franklin
+}
+
+.texto3 {
+    font-family: libre franklin;
+    color: rgb( 65, 64, 66);
+    text-align: left;
+    left: 1600.168px;
+    top: 1610.541px;
+    z-index: 20
+}
+
+.texto34 {
+    font-family: libre franklin;
+    color: rgb( 65, 64, 66);
+    text-align: left;
+    margin-left: 100px;
+    top: 1610.541px;
+    z-index: 20
+}
+
+.col-md-7 {
+    left: 100.168px;
+    font-size: 14.998px;
+    color: rgb( 65, 64, 66);
+    text-align: left;
+    width: 278.664px;
+    height: 121.988px;
+    z-index: 20
+}
+
+.gif-p {
+    margin-top: 22%
+}
+
+.cuadro {
+    height: 470px;
+    background-color: #5d6572
+}
+
+.imagentipicon {
+    padding: 80px;
+    width: 100%;
+}
+
+.espacio {
+    margin-top: 300px
+}
+
+.espacio1 {
+    padding: 230px 0% 0%
+}
+
+span {
+    font-weight: 700;
+    font-family: titillium web, sans-serif
+}
+
+.espacio900 {
+    height: 70px
+}
+
+.ccierre {
+    width: 80%;
+    margin-left: 20%;
+    filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.7))
+}
+
+.texto-footer {
+    margin-left: -30%;
+    font-family: libre franklin;
+    color: rgb( 255, 255, 255);
+    font-weight: inherit
+}
+
+.numero-footer {
+    color: #fff;
+    font-family: libre franklin;
+    margin-left: -75%
+}
+
+.web-footer {
+    font-size: 20px;
+    font-family: titillium web;
+    color: rgb( 255, 255, 255);
+    font-weight: 700;
+    text-align: end;
+    left: 180.312px;
+    margin-left: 80%;
+    z-index: 5
+}
+
+.web-footer:hover {
+    font-weight: 700;
+    color: #fff;
+    font-size: 20px;
+    text-align: end;
+    text-decoration: none;
+    font-family: titillium web, sans-serif
+}
+
+.col-auto {
+    margin-top: -7%;
+    margin-left: 80.63%
+}
+
+@media(max-width:780px) {
+    .menu {
+        text-align: left;
+        margin-left: 10%;
+    }
+    .parrafo {
+        font-family: libre franklin;
+    }
+    .espaciofooter {
+        height: 5vh;
+    }
+    .tip {
+        margin-left: 20%
+    }
+    .imagen {
+        height: 100%;
+    }
+    .color {
+        height: 100px;
+        padding: 70px
+    }
+    .texto {
+        text-transform: uppercase;
+        font-size: 55%;
+        text-align: center;
+        left: 33%
+    }
+    .texto1 {
+        padding: 20px 0% 10px
+    }
+    .img-fl {
+        width: 100%;
+    }
+    .col-md-7 {
+        left: -50px;
+        font-size: 14.998px;
+        text-align: left;
+        width: 500px;
+        height: 78%;
+    }
+    .texto67 {
+        text-align: left;
+        margin-left: 60px
+    }
+    .texto34 {
+        text-align: left;
+        margin-left: 60px
+    }
+    .espacio-letras {
+        height: 2%
+    }
+    .cuadro {
+        height: 200px;
+        background-color: white;
+    }
+    .imagentipicon {
+        padding: 0;
+        text-align: center;
+        width: 100%;
+    }
+    .espacio {
+        margin-top: 8%;
+    }
+    .texto66 {
+        font-weight: 700;
+        text-transform: uppercase;
+        text-align: left;
+        z-index: 17
+    }
+    .texto3 {
+        text-align: left;
+        left: 1600.168px;
+        top: 1610.541px
+    }
+    .gif-p {
+        margin-top: 2%;
+        text-align: left;
+        left: -10%
+    }
+    .espacio900 {
+        height: 23px
+    }
+    .ccierre {
+        width: 100%;
+        margin-left: -.2%
+    }
+    .texto-footer {
+        margin-left: 5%
+    }
+    .numero-footer {
+        margin-left: 5%
+    }
+    .col-auto {
+        margin-left: 22%
+    }
+    .row .redese .te {
+        margin-left: 80px!important
+    }
+    .row .redese .re {
+        margin-left: 10px!important
+    }
+    .rede {
+        margin-left: 35%
+    }
+}
+
+@media(max-width:420px) {
+    .parrafo {
+        font-family: libre franklin;
+    }
+    .espaciofooter {
+        height: 5vh;
+    }
+}
